@@ -1,0 +1,23 @@
+docs/registry/attributes/jvm.md
+  s_d17086bb7b58ea::t_add33abaebefe5 28
+docs/runtime/jvm-metrics.md
+  s_d17086bb7b58ea::t_938832bf6cb1ee 449,484,510,536,564,590,616
+model/jvm/registry.yaml
+  s_d17086bb7b58ea::t_331d1f07cdb58d 105-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "cad20cefbbee014d58820a6b58d8c174a7fc00c6",
+  "prompts": {},
+  "sessions": {
+    "s_d17086bb7b58ea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcb0c-297d-7152-a80e-f33b920cded7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}

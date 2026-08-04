@@ -1,0 +1,30 @@
+model/jvm/metrics-experimental.yaml
+  s_6824b6883b887f::t_05297c3f0fddac 110-181,186-211
+  s_6824b6883b887f::t_db215ad0b49592 182-185
+model/jvm/registry.yaml
+  s_6824b6883b887f::t_05297c3f0fddac 96-101,107-129
+  s_6824b6883b887f::t_db215ad0b49592 102-106
+docs/runtime/jvm-metrics.md
+  s_6824b6883b887f::t_917c970637adbb 30-37
+  s_6824b6883b887f::t_05297c3f0fddac 419-621
+.chloggen/jvm-executor-metrics.yaml
+  s_6824b6883b887f::t_05297c3f0fddac 1-5
+docs/registry/attributes/jvm.md
+  s_6824b6883b887f::t_536a7c1575c899 15-21,28,30,32,34-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "82f17115cd16d721471d1ee9b1be63e2fa8f18eb",
+  "prompts": {},
+  "sessions": {
+    "s_6824b6883b887f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fca86-54a1-7500-8e07-04bc3a02f671",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yaoyinglong <yinglong.yao@ly.com>"
+    }
+  }
+}

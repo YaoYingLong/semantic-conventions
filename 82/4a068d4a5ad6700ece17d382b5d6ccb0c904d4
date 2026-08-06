@@ -1,0 +1,19 @@
+docs/runtime/jvm-metrics.md
+  s_3837df36f731f0::t_f40e193f1e80b1 425-426
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "824a068d4a5ad6700ece17d382b5d6ccb0c904d4",
+  "prompts": {},
+  "sessions": {
+    "s_3837df36f731f0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd54a-11ee-7e70-9918-cd038d1e0eee",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}

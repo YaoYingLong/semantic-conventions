@@ -1,0 +1,22 @@
+model/jvm/metrics-experimental.yaml
+  s_eb10d0fe68c0f4::t_30f53fc8486afe 129,131,183-187
+docs/runtime/jvm-metrics.md
+  s_eb10d0fe68c0f4::t_30f53fc8486afe 33,497,501
+  s_eb10d0fe68c0f4::t_acd7127816b5e2 508,599-601
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "6f875f4f444b6b88da09b00b6599e7722679eab6",
+  "prompts": {},
+  "sessions": {
+    "s_eb10d0fe68c0f4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07a27-cc2f-7ec3-942b-20cb7c1a5d41",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}

@@ -1,0 +1,535 @@
+model/rpc/deprecated/registry-deprecated.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 78-85,158,161,214,217,221,225
+docs/cicd/cicd-logs.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 21
+docs/db/couchdb.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 53,65,67,92-100,129
+docs/resource/zos.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 38-41,76-79,118-120
+docs/system/openshift-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 564
+model/hardware/enclosure-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+model/hardware/network-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/general/trace.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 36,39
+docs/http/http-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 66,575,979,1098
+model/messaging/events.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4,16,18,30,32,44,46,58,60,72
+model/service/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-3,5-6,8-9
+templates/registry/markdown/entity_macros.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 34
+docs/dotnet/dotnet-dns-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 22,55
+.github/scripts/lychee-spec-links-config.toml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-12
+docs/hardware/host.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 128
+docs/general/trace-compatibility.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 7-14,36,49
+model/faas/events.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4,18
+docs/faas/faas-exceptions.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 62
+.chloggen/jvm-file-descriptor-rc.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-27
+docs/otel/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+docs/runtime/cpython-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 131
+docs/runtime/nodejs-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 217
+Makefile
+  s_eb10d0fe68c0f4::t_5b97780c917a07 140,147-150
+schemas/1.44.0
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-768
+model/manifest.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/messaging/kafka.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1067
+docs/hardware/gpu.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 341
+docs/dotnet/dotnet-kestrel-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 94,468,598
+templates/registry/markdown/attribute_table.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 13
+docs/registry/attributes/url.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 49-50,54-57,86-87,91-93
+docs/dns/dns-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 24,58
+docs/how-to-write-conventions/resource-and-entities.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 180,235,250,265
+docs/hardware/temperature.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 162
+docs/cloudevents/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+docs/exceptions/exceptions-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 113
+docs/messaging/messaging-exceptions.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 246
+docs/resource/cloud-provider/gcp/apphub.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 154
+.chloggen/profiles-cuda.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-22
+docs/faas/faas-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 46,83,295,376
+model/hardware/temperature-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+.github/workflows/checks.yml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 29,77
+.chloggen/http-request-response-body.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-23
+model/azure/cosmosdb-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 33-34
+model/db/events.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4,18
+model/rpc/events.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4,18,20,34
+model/session/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-3,5-6,11
+docs/azure/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+docs/messaging/rabbitmq.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 683
+docs/hardware/cpu.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 229
+model/db/spans.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 331-332,385-388,547-548,588-591
+.github/workflows/ossf-scorecard.yml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 11,16-19
+docs/runtime/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 60
+docs/dns/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+docs/non-normative/rpc-migration.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 60-61,120,152
+docs/resource/cloud-provider/aws/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 28
+docs/url/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 21
+model/rpc/spans.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 28-47,79,117,141,154,184,191,250,261,264,283-301,339,358,391,412,419,511,522,525
+docs/http/http-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 65,84,166,168,170,172,174,176,178,234-235,239-242,285-308,325-351,367,369,371,545,547,549,551,555-556,629-630,634-637,660-683,700-726,742,744,982-983
+model/destination/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-3,5-6,8-13
+docs/system/system-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1179
+model/cicd/spans.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 9
+docs/runtime/go-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 362
+README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 5
+model/otel/metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 90-91,145-146,156,159-164,223-224,278-279,332-333,389
+docs/system/container-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 44,46-47,340,342-343,360,362-364,381,383-386,392
+model/opentracing/deprecated/registry-deprecated.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-21
+docs/hardware/battery.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 228
+docs/cicd/cicd-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1000
+docs/registry/attributes/opentracing.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 12
+docs/system/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 20
+model/client/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-3,5-6,8-13
+model/db/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 2,4,8-18,20-22,24-32
+.chloggen/k8s-statefulset-pod-available.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-8
+.github/scripts/link-check.sh
+  s_eb10d0fe68c0f4::t_5b97780c917a07 13,22-29,56
+docs/resource/cloud-provider/gcp/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 20
+docs/general/logs.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 28,60,114
+docs/messaging/messaging-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 57,387,489
+docs/general/recording-errors.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 143-144
+docs/messaging/sns.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 180
+docs/graphql/graphql-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 59
+model/profile/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 86-90
+.chloggen/deprecate-opentracing-attrs.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4
+model/hardware/common-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+internal/tools/go.mod
+  s_eb10d0fe68c0f4::t_5b97780c917a07 5,7
+model/session/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-13
+docs/general/metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 40,91,139
+model/hardware/logical-disk-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/general/attribute-requirement-level.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 135
+model/hardware/battery-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+model/thread/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-3,5-6
+templates/registry/markdown/attribute_namespace.md.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 28,32,34-35,46
+model/hardware/physical-disk-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/faas/faas-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 375
+.github/workflows/downstream-codegen-check.yml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-156
+docs/cloud-providers/aws-sdk.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 81
+docs/nfs/nfs-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 471
+docs/rpc/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 52
+docs/configuration/version-selection.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 118
+docs/general/semantic-convention-groups.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 93-94
+model/destination/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-16
+docs/db/cosmosdb.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 68,208,236,244-246,248-256,372,403,415-418,432,434,438-446,492-496,498-499,501-503,505-506,512
+docs/hardware/physical-disk.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 265
+templates/registry/markdown/weaver.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 3-10,14-21,23,78-83
+model/hardware/voltage-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+package.json
+  s_eb10d0fe68c0f4::t_5b97780c917a07 14,16,18
+areas.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 311-325
+docs/hardware/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 33
+docs/hardware/voltage.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 189
+templates/registry/markdown/notes.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 2-22
+docs/general/naming.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 443
+docs/exceptions/exceptions-logs.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 10-11,62,69,106,176,184,189-192,226
+docs/db/database-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 12-14,54,75-77,82-155,207,222-224,242-245,257,259,296-299,306,314-316,321-329,668
+docs/db/redis.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 46,67,69,102-110,147
+templates/registry/markdown/body_field_table.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 16
+docs/messaging/gcp-pubsub.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1088
+docs/system/k8s-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 84,175,177-178,424,457,490,493-494,512,515-516,534,536-538,541-543,562-563,604-605,648-649,690-691,732-733,776-777,901,903-904,1203,1236,1269,1272-1273,1291,1294-1295,1313,1315-1317,1320-1323,1339,1342-1343,1361,1364-1365,1674-1693,2373,2392,2411,2430,2530,2550,2570,2590,2610,2630,2650,2670,2690,2716,2742,2774,2806,2838,2870,2890,2910,2930,2950,2978,3021,3256
+docs/app/app-events.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 203
+docs/rpc/grpc.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 48,56,88,131,133,196,203,207,210-212,214,227,229,259,261-266,270-277,283,315
+.chloggen/clarify-log-created-intake.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-10
+docs/db/mariadb.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 47,69,71,116-119,126,134-136,138-146,203
+docs/feature-flags/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 16
+docs/general/signal-requirement-level.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 44
+docs/rpc/connect-rpc.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 50,63,65,95,159-161,163,171,173,203,212,214,216,256
+docs/cli/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 13
+model/cloudevents/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-20
+templates/registry/markdown/attribute_macros.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 21,23-24,26
+docs/dotnet/dotnet-network-traces.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 457
+docs/resource/cloud-provider/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 11
+docs/db/database-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 65,93,107-109,127-130,142,144,158-161,169-171,176-184,187,262,294,308-310,328-331,343,345,359-362,368-376,379,663
+docs/db/elasticsearch.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 55,58,100-101,105-108,132,134,166,171-179,247
+docs/db/oracledb.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 13,15-16,59,71,73,118-121,128,136-138,163-171,230-328,335,337,339,341,343,345-352,354-355,357-387,390-408,416
+docs/how-to-write-conventions/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 113,251,283,357
+docs/registry/attributes/rpc.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 21,58-59,86,91-92,100
+docs/feature-flags/feature-flags-events.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 29,32,36,128
+docs/hardware/network.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 346
+docs/rpc/json-rpc.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 51,63,65,73,135-138,140,147,149,157,159,161,164-166,197
+docs/rpc/rpc-exceptions.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 108
+templates/registry/markdown/snippet.md.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 8-9,27-37,49
+model/source/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-16
+docs/messaging/rocketmq.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 587
+docs/cloud-providers/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+docs/nfs/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 13
+docs/dotnet/dotnet-signalr-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 20,108
+docs/http/http-exceptions.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 109
+templates/registry/markdown/enum_macros.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 12,25
+docs/messaging/messaging-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 199,1484
+.chloggen/network-carrier-remove-group.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-8
+dependencies.Dockerfile
+  s_eb10d0fe68c0f4::t_5b97780c917a07 6,9
+model/rpc/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 7,16
+docs/messaging/sqs.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 490
+docs/general/profiles.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 45,102
+docs/azure/azure-events.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 63
+docs/hardware/disk-controller.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 96
+docs/hardware/common.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 251
+docs/registry/attributes/db.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 40-42,81-84,127-130,134,143-145
+model/gen-ai/deprecated/spans-deprecated.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 152
+model/hardware/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+.chloggen/fix-multiline-brief-table-cell.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-22
+.chloggen/k8s_net_metrics_rc.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-9
+docs/object-stores/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+model/client/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-19
+.github/CODEOWNERS
+  s_eb10d0fe68c0f4::t_5b97780c917a07 50,116-117,124-129,164-165,201-204
+model/rpc/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 25,37,39
+model/server/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-19
+templates/registry/markdown/metric_table.j2
+  s_eb10d0fe68c0f4::t_5b97780c917a07 7
+docs/hardware/fan.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 189
+docs/hardware/logical-disk.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 254
+docs/resource/process.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 257
+docs/db/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 58
+model/hardware/fan-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+model/url/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 61-62,66-69,131-132,136-138
+docs/resource/cloudfoundry.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 209
+model/thread/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-6,8-9,11,14,16,18,20,22,24,26,28-35,37,40,42,44,46,48,50,52-53
+.github/workflows/changelog.yml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 42
+docs/db/cassandra.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 59,67-68,87-90,101,103,140-143,150,158-166,240
+docs/db/sql-server.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 51,76,78,123-126,133,141-143,145-153,243
+docs/http/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 47
+AREAS.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 57
+docs/general/attributes.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 59-62,104-107,132-135,156-159,285-290,309-312,355
+docs/how-to-write-conventions/status-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 86
+.chloggen/clarify-db-server-address.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-11
+docs/general/metric-requirement-level.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 46
+docs/registry/attributes/profile.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 24
+docs/runtime/jvm-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 45,213,807-812,818-821,829,838-842,851,857
+docs/object-stores/s3.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 105
+model/exceptions/events.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4,9
+model/hardware/disk-controller-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/registry/attributes/http.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 18,20-21,23,25,27,30,32-55,72,95-121,123,139
+docs/app/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 13
+model/http/events.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4,22,24,38
+.chloggen/3921.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4
+model/session/events.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-4,11,26,28-30
+docs/faas/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 21
+docs/hardware/power-supply.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 197
+docs/db/mongodb.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 48,51,61,63,88-96,139
+model/http/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 207-269
+docs/db/dynamodb.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 724
+docs/db/mysql.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 49,69,71,116-119,126,134-136,138-146,203
+model/k8s/metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 9,13,16-21,204,219,233,244-245,250,261-262,267,278-279,282-284,300-301,322-323,346-347,368-369,390-391,414-415,468,470,473-478,661,672-673,678,689-690,695,706-707,710-713,717,728-729,734,745-746,858,873,1040-1054,1541,1555,1569,1583,2073
+docs/db/hbase.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 48,53-56,71,73,98-106,136
+docs/mobile/mobile-events.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 79
+model/container/metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 9,13,16-23,256,265-267,269-270,275,284-290,292-293,298,307-312,315-316,318-321
+docs/db/sql.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 64,126,128,173-176,183,191-193,195-203,265
+docs/cicd/cicd-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 38,205
+.chloggen/k8s_uptime_rc.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-28
+docs/runtime/dotnet-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 540
+.chloggen/3919.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-7
+model/source/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-3,5-6,8-13
+.chloggen/oracledb-app-context.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-7
+docs/messaging/azure-messaging.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 2231
+docs/db/postgresql.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 49,77,79,124-127,134,142-144,146-154,211
+docs/hardware/enclosure.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 96
+CONTRIBUTING.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 64-71,524
+docs/hardware/tape-drive.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 198
+docs/browser/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+model/hardware/cpu-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/mobile/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+docs/otel/sdk-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 280,459,560-566,732,911,1098,1192,1296,1322,1369-1370,1411
+docs/resource/cloud-provider/gcp/cloud-run.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 32
+model/server/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-3,5-6,8-13
+docs/resource/k8s/openshift.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 28
+docs/non-normative/compatibility/grpc.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 55,59,78,82
+docs/messaging/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 56
+docs/cicd/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 17
+docs/rpc/dubbo.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 40,48,80,91,93,215,222,226-227,229,233,258,260,290,292,294,296,336
+model/hardware/gpu-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/faas/aws-lambda.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 177,190,314
+docs/general/session.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 18-25,52,60,62,93
+docs/dotnet/dotnet-aspnetcore-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 185,237,1204
+model/hardware/tape-drive-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+model/rpc/metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 22-28
+.github/workflows/zizmor.yml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 18
+docs/db/database-exceptions.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 62
+model/exceptions/common.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-17
+model/jvm/metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 164-185
+docs/general/events.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 12,71,94,98,105,115,142,145
+docs/exceptions/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 32
+model/hardware/power-supply-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+.github/scripts/update-spec-repo-links.sh
+  s_eb10d0fe68c0f4::t_5b97780c917a07 28-31
+docs/graphql/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 15
+model/http/spans.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 67-70,148-150
+model/db/registry.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 20-22,56-59,70-73,133-136,152-154
+model/hardware/memory-metrics.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1
+docs/system/process-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 429
+.chloggen/error-type-conditionally-required.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-13
+docs/resource/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 9,56,63,211
+.chloggen/restore-sigv2-cloudfront-redaction.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-22
+model/db/deprecated/metrics-deprecated.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 208
+docs/resource/k8s/README.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 674
+docs/runtime/v8js-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 28,255
+docs/hardware/memory.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 190
+docs/rpc/rpc-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 47,94,106,108,138-139,213-215,217,225,227,257-258,260,262,264,297
+CHANGELOG.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 12-80,99,113,123,126,134,147,159,170,191,202,206,221,224,232,238,241,246,251,259,264,276,280,285,295,302,343,358,366,378,393,396,444,451,457,478,506,543,563,573,688,694,711,758,762,833,849,876,890,894,901,910
+docs/rpc/rpc-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 58,80-82,90,92,122-127,159,181,191,193,223-224,255
+docs/dotnet/dotnet-http-metrics.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 79,106,216
+docs/browser/browser-events.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 75
+docs/cloudevents/cloudevents-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 52-55,71
+.chloggen/k8s_fs_metrics_rc.yaml
+  s_eb10d0fe68c0f4::t_5b97780c917a07 1-8
+docs/cli/cli-spans.md
+  s_eb10d0fe68c0f4::t_5b97780c917a07 151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "95bcb991964914fb940280810f6ee79e331ca328",
+  "prompts": {},
+  "sessions": {
+    "s_eb10d0fe68c0f4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07a27-cc2f-7ec3-942b-20cb7c1a5d41",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}

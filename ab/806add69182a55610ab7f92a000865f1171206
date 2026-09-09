@@ -1,0 +1,25 @@
+.chloggen/jvm-executor-metrics.yaml
+  s_61123c38521696::t_990c9a64983ee0 3
+docs/runtime/jvm-metrics.md
+  s_61123c38521696::t_897d39abdc8479 452,457,491,495,522,526,551,555,582,586,613,617,642,646
+model/jvm/registry.yaml
+  s_61123c38521696::t_990c9a64983ee0 100,105-112
+docs/registry/attributes/jvm.md
+  s_61123c38521696::t_897d39abdc8479 15,29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ab806add69182a55610ab7f92a000865f1171206",
+  "prompts": {},
+  "sessions": {
+    "s_61123c38521696": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07ac0-3a38-7e33-9098-198698591aed",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}

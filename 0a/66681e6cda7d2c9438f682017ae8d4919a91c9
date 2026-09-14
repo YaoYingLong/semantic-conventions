@@ -1,0 +1,30 @@
+docs/registry/attributes/jvm.md
+  s_8186c850703483::t_dcade22c7ee8dd 29
+.chloggen/jvm-executor-metrics.yaml
+  s_8186c850703483::t_35fd2d04c9e720 3
+model/jvm/metrics-experimental.yaml
+  s_8186c850703483::t_35fd2d04c9e720 199-205
+model/jvm/registry.yaml
+  s_8186c850703483::t_994a200c12074d 115
+  s_8186c850703483::t_35fd2d04c9e720 112-114,116-117
+docs/runtime/jvm-metrics.md
+  s_8186c850703483::t_b75b323f82abc3 457,495,526,555,586,617,648
+  s_8186c850703483::t_bd004210593116 636
+  s_8186c850703483::t_c78bba1e131779 638
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0a66681e6cda7d2c9438f682017ae8d4919a91c9",
+  "prompts": {},
+  "sessions": {
+    "s_8186c850703483": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09e79-2ff6-70b2-bdf7-d1cd2c24bf6c",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}

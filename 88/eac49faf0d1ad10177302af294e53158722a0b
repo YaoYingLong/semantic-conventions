@@ -1,0 +1,654 @@
+docs/non-normative/compatibility/grpc.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 36-39,97
+docs/hardware/logical-disk.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 42-43,54-55,64-65,133,140-141,171,178-179,211-212,227-228,241
+docs/non-normative/k8s-migration.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 67-68,337,357-358,364-371,473-538,586-589
+docs/registry/attributes/client.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 15,17
+docs/registry/attributes/hardware.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 16,21,23,25,33,37-39,46-47,57-58,69-70,87-88,98-99,108-109,122-123,134
+model/destination/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,7-10,12-16
+model/http/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+model/session/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/registry/attributes/host.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,21,25-26,32,34-93,97
+docs/faas/faas-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 89,114-115,168,181-182,224-225,254-255,266-267,315,344
+docs/http/http-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 154,158,174,178,285-290,330-335,393-394,403-404,423-424,437-438,546,549,573-574,676,678-683,723-728,789-790,799-800,819-820,833
+model/rpc/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 19,23-24,26-27,29-37,39-59,63-64,66-74,76-77
+.chloggen/remove-zos-entities.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+internal/tools/go.mod
+  s_128a2f9f8281b7::t_4910fd30f86cee 5
+.chloggen/add-k8s-node-pid-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-22
+model/client/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,10,19
+policies/reference_attributes.rego
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-44
+docs/resource/cloud-provider/gcp/apphub.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 67-68,77-78,90-91,125-126,135-136,148
+docs/registry/attributes/profile.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,18
+docs/registry/attributes/nodejs.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,18
+docs/cicd/cicd-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 55-57,87-88,99-100,114-115,147,149,188-189,203
+model/webengine/entities.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 10,13,16
+docs/dotnet/dotnet-kestrel-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 50-51,69-70,83-84,115,118-119,194-195,204-205,218-219,249-250,268-269,282-283,312-313,331-332,345-346,377-378,400-401,414-415,446-447,465-466,479-480,511-513,534-535,544-545,558-559,588-589,607-608,621
+.chloggen/k8s_paging_faults_rc.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-22
+docs/resource/k8s/README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 599,620
+templates/registry/markdown/enum_macros.j2
+  s_128a2f9f8281b7::t_4910fd30f86cee 6-7,21-22
+docs/network/choosing-network-attributes.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-537
+model/hardware/disk-controller-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.chloggen/3947-source-address-as-observed.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-10
+docs/hardware/physical-disk.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 42-43,58-59,68-69,111,122-123,215-216,236-237,250
+docs/resource/README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 91,104
+docs/resource/cloud-provider/aws/ecs.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 30,39
+model/hardware/temperature-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+model/system/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 8,11-14
+docs/hardware/temperature.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 66,73-74,113-114,129-130,143
+docs/db/sql.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 56,97,120,182-187,247
+model/cpu/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 52-59
+model/thread/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/resource/webengine.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-20
+model/aws/lambda-spans.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4,6-9,14,25-28
+docs/runtime/dotnet-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 88,92-93,156,160-161,236,240-241,276,280-281,534,538
+docs/cicd/cicd-logs.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14
+.chloggen/3947-destination-address-as-observed.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-10
+.chloggen/host-id-identity.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/azure/azure-events.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 32-41,43-45
+docs/registry/attributes/otel.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 20-22,27-28,39-40,51-52,69,90
+model/container/metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 75,177-180,191,202-206,211,213-217,239
+model/hardware/battery-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+model/system/deprecated/registry-deprecated.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 147-154
+docs/registry/attributes/v8js.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14-16,18-19,23-24,36-37,42,45-46,49-57,61
+docs/registry/entities/host.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-61,70-72,76-77,80-86,93-94,120-125
+docs/db/sql-server.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 43,132-137,198
+.chloggen/db-connection-pool-attributes.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-11
+docs/registry/entities/telemetry.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 36,49
+docs/registry/attributes/error.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 17,47
+model/hardware/logical-disk-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.chloggen/rpc-span-refinements-v2.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-7
+docs/hardware/gpu.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 44-45,63-64,73-74,116,127-128,250,259-260,293-294,314-315,328
+docs/messaging/rocketmq.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 75-76,80,90,173-174,183-184,197-198,210-211,259-260,264,270,273,353-354,363-364,377-378,388-389,401-402,454-455,459,465,468,542-543,552-553,566-567,577-578,590
+docs/registry/attributes/service.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 17-22,27-31,58,61,65-66,71-74,76,78,80,82
+.chloggen/azure-resource-log-v2.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/system/system-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 166-167,171-172,175-176,210-212,235-236,240-241,244-245,284,288-289,339,343-344,381-382,386-387,416-417,421-422,451,455-456,485-486,490-491,501-502,535-536,540-541,570-571,575-576,612,640-641,645-646,675-676,680-681,710,740,743-744,748-749,760-761,794,797-798,802-803,814-815,848,851,855-856,889-890,894-895,935,939-940,969-970,974-975,1011,1015-1016,1046,1050-1051,1080,1082,1094-1095,1114-1115,1152,1156-1157,1347,1351-1352,1379,1383-1384,1437,1441
+model/rpc/grpc.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-246
+model/host/entities.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 10,12,14,16,18,20,22,25,28,38-39,41-42,44-45,47,49,51
+model/server/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,8-17,20-38
+model/session/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/resource/cicd.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 153,172
+model/source/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,8-14
+model/zos/deprecated/registry-deprecated.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-36
+docs/messaging/kafka.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 82-83,87,164-165,174-175,188-189,235-236,241,333-334,343-344,357-358,405-406,411,503-504,513-514,527-528,574-575,581,674-675,684-685,698-699,749-750,756,843-844,853-854,867-868,913-914,919,999-1000,1009-1010,1023
+.weaver.toml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/registry/attributes/openai.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14-15,21-22,32
+docs/runtime/go-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 59,66-67,239,246
+model/thread/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+dependencies.Dockerfile
+  s_128a2f9f8281b7::t_4910fd30f86cee 6,9
+docs/registry/attributes/cassandra.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,23
+model/db/deprecated/metrics-deprecated.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 64-65,72-86
+model/deployment/entities.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 10-11
+docs/registry/attributes/source.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 12,15
+areas.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 155-156,162-163,217-218
+model/k8s/metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 86,94-206,279-284,292-406,410,420,422,424-431,812,1058-1063,1074,1084,1086-1095,1131-1166,1738-1740,1779-1796,1833-1852
+docs/registry/attributes/db.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-19,31,133-138,156-157,167-168,191,223,232-233,235,253,258-259,278-279,289-290,303-304,327-328,392,394,398-399,409
+docs/registry/attributes/ios.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 17,23-24,43,49
+docs/hardware/tape-drive.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 40-41,54-55,64-65,111,116-117,150-151,169-170,183
+model/container/entities.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 10,12-13,15,18,21,24,26,35,37,39-40,42,54,57
+model/service/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 115-133
+model/rpc/spans.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 75-80,106,108,110
+docs/registry/attributes/graphql.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 16,22
+docs/registry/attributes/linux.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,18
+docs/hardware/common.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 45,53-54,96-97,107-108,117-118,162,170-171,215-216,224-225,238
+docs/db/elasticsearch.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 44,48,165-170,200-201,210
+docs/registry/entities/cloud.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 24-25,57-58,101
+docs/registry/entities/deployment.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18,30
+docs/db/cosmosdb.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 51-52,60,82,235-240,302-303,313-314,327-328,406,411,461-462,475
+docs/registry/entities/service.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 19,29-30,61-62,91-94,107,109
+model/hardware/physical-disk-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/resource/deployment-environment.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18,30
+package.json
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,16-17
+docs/registry/attributes/aspnetcore.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,17-18,21-27,31,34,40-41,52-53,63-64,76-77,90-91,101-102,115-116,130-131,145-146,156-157,198-199,211
+model/http/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 208-210,241-243
+.chloggen/entity-v2-system-host.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+.github/scripts/triage/package.json
+  s_128a2f9f8281b7::t_4910fd30f86cee 12
+.chloggen/v8js-heap-space-names.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-22
+docs/rpc/rpc-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 90-91,99-101,152-190,201-202,211-212,255-256,264-266,315-353,364-365,374
+docs/feature-flags/feature-flags-events.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 32,56,62,102-103,112
+docs/rpc/rpc-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 15-17,62,80-81,134-135,144-145,167,185-186,241-242,251
+.chloggen/cpu_usage_rc.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-22
+model/db/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/registry/attributes/opentracing.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 12,18
+.chloggen/entity-v2-system-os.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/registry/attributes/cpython.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,18
+docs/dotnet/dotnet-aspnetcore-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 76,93-94,127-128,135-136,148-149,260,267-268,305,312-313,453,455,459-460,471-472,501,505-506,535,539-540,569,573-574,603,607-608,642-643,647-648,658-659,693-694,698-699,709-710,738,741-742,746-747,757-758,799-800,830-831,835-836,846-847,876-877,881-882,895-896,924,926,930-931,945-946,974,976-977,981-982,996-997,1007-1008,1037,1039,1041,1045-1046,1059-1060,1074-1075,1104-1105,1109-1110,1123-1124,1155,1159-1160,1190,1194-1195,1225,1229-1230,1260,1264
+model/aws/s3-spans.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-23
+docs/resource/host.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 22-65,74-76,80-81,84-90,97-98,118-119,135-140
+docs/db/oracledb.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 46,127-132,221
+docs/registry/attributes/cicd.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,16,18,22,24,28,35-36,47-48,62-63,74-75,89-90,101
+model/db/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 63-65,311,406-412
+docs/cli/cli-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 40,72-73,111,143
+docs/registry/attributes/cpu.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14-17,21
+.chloggen/3947-endpoint-attribute-guidance.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-7
+docs/runtime/jvm-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 76,82-83,114,120-121,152,158-159,190,196-197,282,286-287,687,693
+  s_128a2f9f8281b7::t_9ae57ac2f08b48 463,473
+docs/dotnet/dotnet-signalr-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 37-38,42-43,54-55,85-86,90-91,102
+model/android/resources.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-10
+model/rpc/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/db/hbase.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 45,119
+model/rpc/dubbo.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-269
+docs/cicd/cicd-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 75-77,109-110,124-125,136-137,166,170-171,201,205-206,242,272-273,304,334-335,370,374,385-386,398-399,430,435,449-450,462-463,499,545-546,582,628-629,661,665-666,697,701,712-713,725-726,759,761,763,768,793-794,804-805,817-818,828-829,862,864,866,870,895-896,908-909,919-920,930-931,961,965,982-983,995-996,1028,1039
+docs/messaging/messaging-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 75-76,81,133-134,143-144,157-158,202-203,251-252,261-262,307-308,362-363,372-373,419-420,474-475,484
+docs/hardware/cpu.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 41-42,54-55,64-65,134,142-143,182-183,200-201,214
+docs/registry/attributes/process.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 22,45,83-84,94-95,125-126,128,132-133,143-144,155
+.chloggen/update-cpu-logical-number-brief.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-25
+docs/registry/attributes/signalr.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14-15,19-20,31
+docs/http/http-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 81,83,90,167-168,177-178,197-198,227,269-270,310,312,319,396-397,406-407,426-427,458,460,467,544-545,554-555,574-575,610,613,684-685,694-695,735,738,809-810,819-820,860,863,934-935,944-945,983,998-999,1068,1112
+model/hardware/tape-drive-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.chloggen/k8s_memory_limit_request_metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-25
+docs/registry/attributes/cloud.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 16-17,49-50,93
+model/hardware/common-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/registry/attributes/browser.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 21-23,37-38,51-52,66
+.chloggen/add-service-instance-cost-center.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-5
+docs/registry/attributes/network.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 21-23,25,32-33,51-52,71-72,101-102,115-116,126-127,140-141,165,171,175-176,187
+policies_test/reference_attributes_test.rego
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-23
+.chloggen/remove-general-log-groups.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-6
+policies_test/unbounded_attributes_test.rego
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-53
+model/destination/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,8-14
+docs/registry/attributes/destination.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 12,15
+docs/dotnet/dotnet-network-traces.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 96,100-101,145,159-160,205,221-222,263,266-267,306-307,316-317,330-331,373,375,382-383,392
+model/server/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/hardware/disk-controller.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 40-41,61-62,75
+.chloggen/k8s_pod_cpu_metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-27
+model/hardware/power-supply-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/registry/attributes/mcp.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,23
+model/otel/deprecated/entities-deprecated.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 12-13,15
+.chloggen/k8s_container_cpu_request_utilization_fix.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-25
+docs/db/dynamodb.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 57,70-71,109,123-124,162,180-181,219,233-234,272,284-285,323,335-336,374,389-390,428,442-443,481,495-496,534,554-555,593,616-617,655,669-670,708,725
+docs/registry/attributes/dotnet.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,18
+docs/registry/attributes/vcs.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18,20,22,25,28-29,32,83-84,96-97,107-108,120-121,131-132,142-143,153-154,174,178
+docs/general/attributes.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 16,26,28,30-32,34-36,38-39
+docs/rpc/connect-rpc.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 44-47,49-51,53-55,57,59-61,75,97,99-100,102-127,129-131,133-134,136-138,140-168,174,180-181,188-200,227-229,231-233,235-240,242,256,278,287-312,314-315,317,319-321,323-324,326-328,330-358,364,370-371,378-389
+README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 5
+docs/registry/attributes/system.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 20,32-33,37-38,49-50,70-72,76-77,87-88,98-99,119-121,125-126,136-137,147-148,165-170,174-175,190-191,211-212,222-223,235
+docs/hardware/battery.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 72,80-81,118-119,131-132,142-143,178-179,199-200,213
+.chloggen/clarify-rpc-error-codes.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-9
+docs/cloud-providers/aws-sdk.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 43,54
+docs/network/README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-17
+model/db/metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 2-15,64,79,91,93,95,103,115,127,139,151,163
+.chloggen/k8s_pod_memory_working_set_description.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-22
+.chloggen/entity-v2-webengine.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/db/mongodb.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 45,109
+docs/registry/attributes/go.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 15,17,25-26,38
+model/faas/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+model/hardware/voltage-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+templates/registry/markdown/entity_macros.j2
+  s_128a2f9f8281b7::t_4910fd30f86cee 34
+docs/resource/service.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 66,76-77,116-117,145-148
+docs/general/semantic-convention-groups.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 93
+docs/registry/attributes/feature-flag.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 21,40-41,65,71
+docs/registry/attributes/geo.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 15,25
+docs/registry/entities/gcp.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 42-43,52-53,65-66,92-93,102-103,115
+model/hardware/network-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.chloggen/fix-db-namespace-examples.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+templates/registry/markdown/attribute_macros.j2
+  s_128a2f9f8281b7::t_4910fd30f86cee 39-50
+docs/rpc/grpc.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 15-16,58-61,63-64,66-68,94-99,136,150,152,154-188,190-192,194-195,197-199,201-202,208,214-215,222-234,264-267,269-270,272-275,286-291,305,327,329,336,338,345-356,358-359,361,363-391,397,403-404,411-423,435-710
+docs/registry/attributes/log.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18,22-23,33,39-42,55-60
+model/client/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,8-17
+.chloggen/k8s_memory_utilization_metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-26
+model/azure/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+.chloggen/add-enum-example-values-footnote.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-22
+templates/registry/markdown/examples_macros.j2
+  s_128a2f9f8281b7::t_4910fd30f86cee 22-25
+model/exceptions/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.chloggen/entity-v2-container-container.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/hardware/enclosure.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 40-41,61-62,75
+model/hardware/fan-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/registry/attributes/tls.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 32,50
+docs/graphql/graphql-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 40,47
+docs/registry/entities/vcs.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 20,39
+model/network/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-6,8-19,22,24-41,43
+templates/registry/markdown/attribute_table.j2
+  s_128a2f9f8281b7::t_4910fd30f86cee 13
+docs/registry/attributes/faas.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18,23,28,70-71,82-83,96
+model/rpc/connect-rpc.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-165
+docs/db/postgresql.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 39,41,133-138,199
+docs/db/database-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 194,199,305-310,377-378,401,427
+docs/registry/entities/aws.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 25,34
+model/rpc/json-rpc.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-114
+docs/messaging/azure-messaging.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 89-90,93,167-168,177-178,191-192,238-239,243,331-332,341-342,355-356,403-404,408,496-497,506-507,520-521,566-567,572,666-667,676-677,690-691,740-741,746,830-831,840-841,854-855,900-901,906-907,993-994,1003-1004,1017-1018,1030-1031,1076-1077,1082,1162-1163,1172-1173,1186-1187,1238-1239,1243,1316-1317,1326-1327,1340-1341,1387-1388,1393,1477-1478,1487-1488,1501-1502,1549-1550,1555,1639-1640,1649-1650,1663-1664,1709-1710,1715,1802-1803,1812-1813,1826-1827,1876-1877,1882,1963-1964,1973-1974,1987-1988,2033-2034,2039,2117-2118,2127-2128,2141-2142,2187-2188,2193,2270-2271,2280-2281,2294
+docs/dns/dns-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 40,48
+.chloggen/refine-dubbo-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-13
+model/session/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/registry/attributes/jvm.md
+  s_128a2f9f8281b7::t_60e227aeff9f0e 17,23,25,43-44,54-55,65
+docs/db/mariadb.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 39,125-130,191
+docs/registry/attributes/container.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 55,61
+docs/registry/attributes/zos.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 6,8,14-15
+model/hardware/enclosure-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.chloggen/aws-span-refinements-v2.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-7
+.github/workflows/downstream-codegen-check.yml
+  s_128a2f9f8281b7::t_4910fd30f86cee 50,53,55
+docs/hardware/network.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 44-45,53,61-62,71-72,94-95,185,196-197,227,238-239,301-302,321-322,335
+docs/messaging/gcp-pubsub.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 83-84,88,162-163,172-173,186-187,233-234,239,324-325,334-335,348-349,396-397,402,487-488,497-498,511-512,558-559,564,652-653,662-663,676-677,727-728,733,816-817,826-827,840-841,886-887,892,977-978,987-988,1001
+.chloggen/entity-v2-deployment-deployment.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/registry/attributes/user-agent.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 35,45
+docs/general/profiles.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 35,39
+docs/registry/attributes/aws.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 83,91
+docs/registry/attributes/file.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 61,65
+docs/registry/attributes/test.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 15,17,21-22,32
+docs/registry/entities/container.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-24,45-48,68-69
+docs/registry/entities/os.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-22,34
+model/system/metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 159,177,226,242,265,285,301,317,336,357,378,398,441
+model/v8js/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 32-34,52-54,60-94
+policies/README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 19,22-23
+docs/db/redis.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 39,94-99,128
+.chloggen/network-peer-local-groups.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-6
+docs/rpc/dubbo.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 15-16,49-50,52-54,56-57,88-93,98-99,107,166-179,181-183,185,187-189,191,193-195,197-208,214,220-221,228-240,269-271,273,277-278,301-306,311-312,320,348-355,357-359,361,363-384,390,396-397,404-416,426-723,726
+docs/registry/attributes/http.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 17,21,32-37,102-107,162-163,173-174,200,216
+model/exceptions/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/runtime/v8js-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 45,49-50,83,85-86,90-91,96,99-100,103-111,136,138-139,143-144,149,152-153,156-164,189,191-192,196-197,202,205-206,209-217,242,244-245,249-250,255,258-259,262-270,295,299
+.github/workflows/zizmor.yml
+  s_128a2f9f8281b7::t_4910fd30f86cee 18
+docs/how-to-write-conventions/README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 122-134,180-186,323-325,328-330
+.github/workflows/ossf-scorecard.yml
+  s_128a2f9f8281b7::t_4910fd30f86cee 19
+docs/otel/sdk-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 58,62-63,95-96,100-101,112-113,146,167-168,214,235-236,290,292,339-340,349-350,397,424-425,475,477,530-531,540-541,612,633-634,680,701-702,756,758,805-806,815-816,863,890-891,941,943,996-997,1006-1007,1056,1083-1084,1134,1136,1189-1190,1199-1200,1250,1252,1299-1300,1309-1310,1362,1365,1422-1423,1432
+model/os/entities.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 13,16,18,20,22
+.chloggen/improve-host-id-definition.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-24
+docs/object-stores/s3.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-27,36,99
+docs/registry/entities/k8s.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 300,321-322,493,542
+docs/faas/aws-lambda.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 48,61,64-67,71-103
+docs/registry/entities/otel.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-19
+docs/runtime/cpython-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 45,49-50,82,86-87,119,123
+model/hardware/cpu-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.github/workflows/checks.yml
+  s_128a2f9f8281b7::t_4910fd30f86cee 77
+docs/general/metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 39
+docs/general/README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 9
+docs/messaging/messaging-spans.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 406-407,410,482-483,492-493,506-507,553-554,558,641-642,651-652,665-666,713-714,718,801-802,811-812,825-826,872-873,877,960-961,970-971,984-985,1035-1036,1040,1117-1118,1127-1128,1141-1142,1187-1188,1192,1267-1268,1277-1278,1291
+docs/registry/attributes/gcp.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 23-24,26-27,40-41,53-54,66-67,79-80,101-102,104-105,110-111,123-124,136-137,149
+docs/resource/os.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 20-24,36
+docs/system/k8s-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 26-31,36-41,78-79,131,134,220,224-225,260,264-265,301,310,318-460,534,541-685,697,699-701,707,711-712,742,746-747,777,781-782,886,890-891,930,934-935,976,980-981,1020,1024-1025,1066,1070-1071,1110,1114-1115,1155,1159-1160,1193,1197-1198,1328-1329,1346-1347,1358-1359,1395,1404,1485,1503,1505-1507,1513,1517-1518,1548,1552-1553,1583,1587-1588,1714-1757,2496,2503-2504,2649-2651,2703-2725,2772-2796,2892,2898-2899,3473-3474,3498-3499,3510-3511,3577,3584-3585,3642,3649
+docs/hardware/fan.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 67,74-75,140-141,156-157,170
+.chloggen/refine-grpc-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-10
+docs/messaging/rabbitmq.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 76-77,82,171-172,181-182,195-196,243-244,249,340-341,350-351,364-365,416-417,422,507-508,517-518,531-532,578-579,582,660-661,670-671,684
+.chloggen/unbounded-and-reference-attributes.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+.chloggen/3924.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-23
+docs/registry/attributes/android.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 17,24-25,42,46
+docs/registry/attributes/messaging.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 37-38,63-64,77-78,155,161,166-167,177-178,196,202
+Makefile
+  s_128a2f9f8281b7::t_4910fd30f86cee 311-312,322,325
+model/hardware/gpu-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/nfs/nfs-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 55,65-66,268,272-273,323,333-334,388,418
+policies/unbounded_attributes.rego
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-77
+docs/registry/attributes/deployment.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 17,20,32-33,45
+docs/registry/attributes/disk.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 14,18
+model/host/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 12-71
+docs/system/process-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 69,75-76,110,116-117,202,206-207,236,240-241,270,274-275,355,359-360,389,393
+docs/registry/attributes/k8s.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 19,23-24,51,53-54,62-63,68,76-77,89-90,97,105,403-404,414-415,432-433,444-445,455-456,467-468,481-482,493-494,507-508,519-520,533-534,547-548,559-560,571-572,584
+docs/resource/cloud.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 24-25,57-58,101
+templates/registry/markdown/attribute_namespace.md.j2
+  s_128a2f9f8281b7::t_4910fd30f86cee 46
+docs/registry/attributes/azure.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 41-42,52-53,63
+model/source/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,7-10,12-16
+.chloggen/entity-v2-android-android.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/db/database-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 20,82,87,186-191,197-198,221,247-248,293,298,387-392,398-399,422,448-449,481-506,510-511,519-568,590-594,596-598,600,602,604,606-607,609-611,613-614,616,618,620,622-664,670,674,681,687-691,693-695,697,699,701,703-704,706-708,710-711,713,715,717,719-761,767,771,778,784-788,790-792,794,796-1254,1269-1343
+docs/registry/attributes/rpc.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 19-23,47-48,50-51,53-55,57-58,60-86,89,93-94,114,116-121,127-128,130-131,134,136,140-141,151-152,176-177,202-203,213
+model/db/spans.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 181,225,721,744,800,857
+docs/hardware/voltage.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 67,74-75,140-141,156-157,170
+docs/mobile/mobile-events.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 46-47,55-56,67
+.github/CODEOWNERS
+  s_128a2f9f8281b7::t_4910fd30f86cee 126,175-178,205-209
+docs/registry/entities/webengine.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-20
+docs/system/container-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 72,83-84,112,120,128-129,221,239,241-242,248,252-253,284-285,289-290,322,326
+docs/registry/attributes/telemetry.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 16,32
+.chloggen/rpc-histogram-buckets.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-22
+model/service/entities.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 40-45
+.chloggen/entity-v2-otel-scope.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-4
+docs/resource/container.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 18-24
+docs/faas/faas-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 61,65-66,100,104-105,137,141-142,174,178-179,211,215-216,248,252-253,285,289-290,324,328-329,361,365
+docs/general/trace.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 35
+docs/rpc/json-rpc.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 46-47,50-53,55-61,63,77-80,82,84,87,89,91,94-132,137,143-144,151-163,192-193,196-199,201-207,209,223-226,228,230,233,235,237,240-278,283,289-290,297-308
+model/opentracing/deprecated/registry-deprecated.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/hardware/memory.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 40-41,55-56,65-66,139-140,159-160,173
+docs/messaging/sqs.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 51-52,56,141-142,151-152,165-166,212-213,217,302-303,312-313,326-327,377-378,382,461-462,471-472,485
+model/hardware/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/db/mysql.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 41,125-130,191
+docs/registry/attributes/os.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 17,22
+model/cloudevents/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+.cspell.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 178
+model/rpc/deprecated/registry-deprecated.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 42-61,66,69,75,78-81,86,90,95,98-101
+docs/hardware/power-supply.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 41,50-51,146-147,164-165,178
+docs/browser/browser-events.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 31,33-34,38-39,52-53,67
+docs/db/couchdb.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 50,112
+docs/README.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 11-12,38,46
+model/log/registry.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 11,27,33,39,45,51,73-75
+model/messaging/events.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/non-normative/rpc-migration.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 62-65,106-109,141-144
+docs/general/events.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 49-50
+.chloggen/db-connection-limit.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-7
+.chloggen/rename-system-device-to-system-device-name.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-24
+model/aws/dynamodb-spans.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1-261
+docs/general/naming.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 23,242-261
+docs/resource/android.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 3,10,14-16
+docs/messaging/sns.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 49-50,54,139-140,149-150,163
+model/service/common.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+docs/resource/zos.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 1,3
+docs/runtime/nodejs-metrics.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 202,206
+docs/registry/attributes/gen-ai.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 30,32,34,54,218-219,236-237,249-250,279-280,298,304-305,340,342,348-349,360
+AREAS.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 45,50
+docs/db/cassandra.md
+  s_128a2f9f8281b7::t_4910fd30f86cee 45,47,149-154,210-211,230
+model/hardware/memory-metrics.yaml
+  s_128a2f9f8281b7::t_4910fd30f86cee 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "88eac49faf0d1ad10177302af294e53158722a0b",
+  "prompts": {},
+  "sessions": {
+    "s_128a2f9f8281b7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1678f-5780-7ea3-88a6-259a622e5209",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}

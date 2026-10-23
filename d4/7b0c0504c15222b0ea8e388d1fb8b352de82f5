@@ -1,0 +1,23 @@
+.chloggen/jvm-executor-metrics.yaml
+  s_8e466fbc2d2c68::t_b8f61488b0c4fe 4-7
+docs/runtime/jvm-metrics.md
+  s_8e466fbc2d2c68::t_2ec7a7562f75f3 619
+model/jvm/metrics-experimental.yaml
+  s_8e466fbc2d2c68::t_b8f61488b0c4fe 186-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d47b0c0504c15222b0ea8e388d1fb8b352de82f5",
+  "prompts": {},
+  "sessions": {
+    "s_8e466fbc2d2c68": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a16792-08a5-77a1-9238-6701de364b94",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yaoyinglong <906271196@qq.com>"
+    }
+  }
+}
